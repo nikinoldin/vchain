@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATSApplicationFontsPath</key>
+	<string>Fonts</string>
+	<key>CFBundleDisplayName</key>
+	<string>vChain</string>
+	<key>CFBundleExecutable</key>
+	<string>VChain</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.bitmapbabe.vchain</string>
+	<key>CFBundleName</key>
+	<string>vChain</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.music</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>15.0</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_SessionStatus._tcp</string>
+	</array>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>https://bitmapbabe.com/vchain/appcast.xml</string>
+	<key>SUPublicEDKey</key>
+	<string>lg/l8DWOWTNJfdcBDtaSspdchQ87U4/N9/hbtoiG60A=</string>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUScheduledCheckInterval</key>
+	<integer>86400</integer>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2026 Niki Noldin. Free software under the GPL-3.0-or-later, with no warranty. Source: github.com/nikinoldin/vchain</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>vChain uses the local network for Ableton Link tempo sync.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>vChain needs microphone access to detect BPM from audio input.</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSScreenCaptureUsageDescription</key>
+	<string>vChain needs system audio access to detect BPM from music playing on your Mac.</string>
+</dict>
+</plist>

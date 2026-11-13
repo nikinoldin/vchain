@@ -1,0 +1,6 @@
+[submodule "lib/link"]
+	path = lib/link
+	url = https://github.com/Ableton/link.git
+[submodule "lib/aubio"]
+	path = lib/aubio
+	url = https://github.com/aubio/aubio.git
